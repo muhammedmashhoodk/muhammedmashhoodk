@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammed+Mashhood+K;First+Year+Electronics+%26+Communication+Student;Robotics+Enthusiast+at+G-Bot" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammed+Mashhood+K;First+Year+Electronics+%26+Communication+Student" alt="Typing SVG" />
 
 I am a first-year B.Tech student in Electronics and Communication Engineering at Government Engineering College Wayanad.
 
