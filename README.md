@@ -6,20 +6,6 @@
 
 Hi, I’m Muhammed Mashhood K, currently pursuing B.Tech in Electronics and Communication Engineering (ECE) at Government Engineering College, Wayanad. 
 
-I’m deeply passionate about VLSI Design, Data Structures & Algorithms, and Software Engineering, and I continuously improving my programming and problem-solving skills in languages like Python, Java, and C, and expanding my knowledge in Machine Learning, Deep Learning, and Full-Stack Application Development etc...
-
-I believe in continuous learning and growth. Every day, I strive to explore new technologies, sharpen my skills, and push my boundaries.
-
-So far, I have gained foundational experience in:
-
-•Python, C++ and Data Science
-•Basics of Artificial Intelligence
-•HTML & CSS for Web Development
-•Python for Data Science
-
-I’m excited to connect with professionals, students, and mentors who share my passion for technology, innovation, and building impactful solutions.
-Let’s collaborate, learn, and build the future together!
-I am a first-year B.Tech student in Electronics and Communication Engineering at Government Engineering College Wayanad.
 
 ---
 
