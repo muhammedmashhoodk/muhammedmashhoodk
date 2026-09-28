@@ -31,7 +31,6 @@ Hi, I’m Muhammed Mashhood K, currently pursuing B.Tech in Electronics and Comm
       <h3>Languages</h3>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <h3>Tools & Platforms</h3>
