@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammed+Mashhood+K;Second+Year+Electronics+%26+Communication+Eng+Student" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Mashhood;Second+Year+Electronics+%26+Communication+Engineering+Student" alt="Typing SVG" />
 
 ---
 
