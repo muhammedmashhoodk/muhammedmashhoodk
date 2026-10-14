@@ -11,11 +11,7 @@ Hi, I’m Muhammed Mashhood K, currently pursuing B.Tech in Electronics and Comm
 
 ### 💻 Programming & Tools
 
-* **Languages:** Learning C and Python.
-
-* **Data Structures:** Actively solving problems on LeetCode.
-
-* **Tools:** Using VS Code with GCC for development.
+* **Languages:** Verilog, C and Python.
 
 ---
 
